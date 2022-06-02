@@ -3,6 +3,11 @@
 Repo นี้สำหรับใช้ในการศึกษา โดยข้อมูลที่ได้รับมาจาก Webhook จะถูกเก็บลงในตัวแปร
 หาก Restart process แล้วจะไม่สามารถนำข้อมูลกลับมาใช้ใหม่ได้
 
+รายละเอียดเพิ่มเติมสามารถอ่านได้ตามนี้เลยครับ
+
+- โพสส่วนตัวของผม [Link](https://short.tanakorn.net/tmwdeartanakorn)
+- โพสของ Maila Studio [Link](https://short.tanakorn.net/tmwmaila)
+
 หากต้องการความช่วยเหลือสามารถติดต่อได้ที่ [Discord](https://discord.deartanakorn.com) ในช่อง #repo-support
 
 ## Requirement
